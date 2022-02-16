@@ -1,0 +1,2 @@
+drone
+-DCATKIN_DEVEL_PREFIX=/home/bora/Downloads/Takeoff_Circle-master/devel -DCMAKE_INSTALL_PREFIX=/home/bora/Downloads/Takeoff_Circle-master/install -G Unix Makefiles

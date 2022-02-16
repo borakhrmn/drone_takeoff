@@ -1,0 +1,8 @@
+prefix=/home/bora/Downloads/Takeoff_Circle-master/install
+
+Name: drone
+Description: Description of drone
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldrone
+Requires: rospy std_msgs
